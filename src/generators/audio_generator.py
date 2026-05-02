@@ -13,7 +13,7 @@ async def generate_audio_for_phrase(phrase: str, chapter: int, index: int,
     
     Returns: {success: bool, phrase: str, file_path: str, error: str}
     """
-    audio_dir_path = Path(audio_dir)
+    audio_dir_path = Path(audio_dir) / f'ch{chapter:02d}'
     audio_dir_path.mkdir(parents=True, exist_ok=True)
     
     filename = f"ch{chapter:02d}_{index:03d}.mp3"
