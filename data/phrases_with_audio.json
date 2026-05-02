@@ -1,0 +1,1321 @@
+{
+  "metadata": {
+    "total_generated": 164,
+    "total_failed": 0,
+    "total_attempts": 164
+  },
+  "phrases": [
+    {
+      "chapter": 1,
+      "index": 0,
+      "phrase": "Hej, hvad hedder du? A: Tak for i dag!",
+      "english_meaning": "",
+      "audio_file": "ch01_000.mp3",
+      "audio_path": "audio\\ch01_000.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 1,
+      "phrase": "Jeg hedder Rasmus. Hvad hedder du? B: Selv tak.",
+      "english_meaning": "",
+      "audio_file": "ch01_001.mp3",
+      "audio_path": "audio\\ch01_001.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 2,
+      "phrase": "Jeg hedder Veronika. A: Vi ses på mandag. Hav en god weekend!",
+      "english_meaning": "",
+      "audio_file": "ch01_002.mp3",
+      "audio_path": "audio\\ch01_002.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 3,
+      "phrase": "Veronika? Hvordan staver du det? B: I lige måde. Hej hej!",
+      "english_meaning": "",
+      "audio_file": "ch01_003.mp3",
+      "audio_path": "audio\\ch01_003.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 4,
+      "phrase": "V-E-R-O-N-I-K-A.",
+      "english_meaning": "",
+      "audio_file": "ch01_004.mp3",
+      "audio_path": "audio\\ch01_004.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 5,
+      "phrase": "Hej Søren! Hvordan går det?",
+      "english_meaning": "",
+      "audio_file": "ch01_005.mp3",
+      "audio_path": "audio\\ch01_005.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 6,
+      "phrase": "Det går godt. Hvad med dig?",
+      "english_meaning": "",
+      "audio_file": "ch01_006.mp3",
+      "audio_path": "audio\\ch01_006.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 7,
+      "phrase": "Jeg har det fint. Hvad med Karoline?",
+      "english_meaning": "",
+      "audio_file": "ch01_007.mp3",
+      "audio_path": "audio\\ch01_007.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 8,
+      "phrase": "Hun har det godt.",
+      "english_meaning": "",
+      "audio_file": "ch01_008.mp3",
+      "audio_path": "audio\\ch01_008.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 9,
+      "phrase": "Er hun på arbejde nu?",
+      "english_meaning": "",
+      "audio_file": "ch01_009.mp3",
+      "audio_path": "audio\\ch01_009.mp3"
+    },
+    {
+      "chapter": 1,
+      "index": 10,
+      "phrase": "Nej, hun er på café med Marie.",
+      "english_meaning": "",
+      "audio_file": "ch01_010.mp3",
+      "audio_path": "audio\\ch01_010.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 0,
+      "phrase": "Hvad hedder ”table” på dansk? A: Hvad hedder du?",
+      "english_meaning": "",
+      "audio_file": "ch02_000.mp3",
+      "audio_path": "audio\\ch02_000.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 1,
+      "phrase": "Det hedder ”bord”. B: Jeg hedder Jacob.",
+      "english_meaning": "",
+      "audio_file": "ch02_001.mp3",
+      "audio_path": "audio\\ch02_001.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 2,
+      "phrase": "Er ”Jacob” med c eller k?",
+      "english_meaning": "",
+      "audio_file": "ch02_002.mp3",
+      "audio_path": "audio\\ch02_002.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 3,
+      "phrase": "Hvordan udtaler man det der ord: B-O-R-D?",
+      "english_meaning": "",
+      "audio_file": "ch02_003.mp3",
+      "audio_path": "audio\\ch02_003.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 4,
+      "phrase": "Man siger ”bo'ɔ”.",
+      "english_meaning": "",
+      "audio_file": "ch02_004.mp3",
+      "audio_path": "audio\\ch02_004.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 5,
+      "phrase": "Hvad hedder du til efternavn?",
+      "english_meaning": "",
+      "audio_file": "ch02_005.mp3",
+      "audio_path": "audio\\ch02_005.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 6,
+      "phrase": "Juul? Er det med et eller to u’er?",
+      "english_meaning": "",
+      "audio_file": "ch02_006.mp3",
+      "audio_path": "audio\\ch02_006.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 7,
+      "phrase": "Det er med to u’er.",
+      "english_meaning": "",
+      "audio_file": "ch02_007.mp3",
+      "audio_path": "audio\\ch02_007.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 8,
+      "phrase": "Hvordan siger man ”I’m hungry” på dansk?",
+      "english_meaning": "",
+      "audio_file": "ch02_008.mp3",
+      "audio_path": "audio\\ch02_008.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 9,
+      "phrase": "Man siger: ”Jeg er sulten”.",
+      "english_meaning": "",
+      "audio_file": "ch02_009.mp3",
+      "audio_path": "audio\\ch02_009.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 10,
+      "phrase": "Hvad betyder ”ordbog”?",
+      "english_meaning": "",
+      "audio_file": "ch02_010.mp3",
+      "audio_path": "audio\\ch02_010.mp3"
+    },
+    {
+      "chapter": 2,
+      "index": 11,
+      "phrase": "Det ved jeg ikke.",
+      "english_meaning": "",
+      "audio_file": "ch02_011.mp3",
+      "audio_path": "audio\\ch02_011.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 0,
+      "phrase": "Hvor … fra? A: Hvor mange … tale?",
+      "english_meaning": "",
+      "audio_file": "ch03_000.mp3",
+      "audio_path": "audio\\ch03_000.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 1,
+      "phrase": "Jeg … Østrig. B: … tre sprog.",
+      "english_meaning": "",
+      "audio_file": "ch03_001.mp3",
+      "audio_path": "audio\\ch03_001.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 2,
+      "phrase": "Kan … spansk? 4.",
+      "english_meaning": "",
+      "audio_file": "ch03_002.mp3",
+      "audio_path": "audio\\ch03_002.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 3,
+      "phrase": "Ja, … Men … svær.",
+      "english_meaning": "",
+      "audio_file": "ch03_003.mp3",
+      "audio_path": "audio\\ch03_003.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 4,
+      "phrase": "Hvad hedder du?",
+      "english_meaning": "",
+      "audio_file": "ch03_004.mp3",
+      "audio_path": "audio\\ch03_004.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 5,
+      "phrase": "Hvor kommer du fra (land + nationalitet)?",
+      "english_meaning": "",
+      "audio_file": "ch03_005.mp3",
+      "audio_path": "audio\\ch03_005.mp3"
+    },
+    {
+      "chapter": 3,
+      "index": 6,
+      "phrase": "Hvad er dit modersmål (sprog)?",
+      "english_meaning": "",
+      "audio_file": "ch03_006.mp3",
+      "audio_path": "audio\\ch03_006.mp3"
+    },
+    {
+      "chapter": 4,
+      "index": 0,
+      "phrase": "Hvor mange kursister er der i klassen? A: Er tyskerne mænd eller kvinder?",
+      "english_meaning": "",
+      "audio_file": "ch04_000.mp3",
+      "audio_path": "audio\\ch04_000.mp3"
+    },
+    {
+      "chapter": 4,
+      "index": 1,
+      "phrase": "Der er 16 kursister i klassen: syv mænd B: Det er to mænd og en kvinde. Mændene hedder",
+      "english_meaning": "",
+      "audio_file": "ch04_001.mp3",
+      "audio_path": "audio\\ch04_001.mp3"
+    },
+    {
+      "chapter": 4,
+      "index": 2,
+      "phrase": "Hvor kommer kursisterne fra? A: Hvad hedder læreren?",
+      "english_meaning": "",
+      "audio_file": "ch04_002.mp3",
+      "audio_path": "audio\\ch04_002.mp3"
+    },
+    {
+      "chapter": 4,
+      "index": 3,
+      "phrase": "De kommer fra mange forskellige lande. B: Hun hedder Charlotte.",
+      "english_meaning": "",
+      "audio_file": "ch04_003.mp3",
+      "audio_path": "audio\\ch04_003.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 0,
+      "phrase": "Åbn bogen! Kig på side fem! A: Vil du godt udtale det her ord for mig?",
+      "english_meaning": "",
+      "audio_file": "ch05_000.mp3",
+      "audio_path": "audio\\ch05_000.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 1,
+      "phrase": "Vil du godt sige det igen?",
+      "english_meaning": "",
+      "audio_file": "ch05_001.mp3",
+      "audio_path": "audio\\ch05_001.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 2,
+      "phrase": "Selvfølgelig: ”travlt”.",
+      "english_meaning": "",
+      "audio_file": "ch05_002.mp3",
+      "audio_path": "audio\\ch05_002.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 3,
+      "phrase": "Prøv at sige det igen: ”København”.",
+      "english_meaning": "",
+      "audio_file": "ch05_003.mp3",
+      "audio_path": "audio\\ch05_003.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 4,
+      "phrase": "En gang til!",
+      "english_meaning": "",
+      "audio_file": "ch05_004.mp3",
+      "audio_path": "audio\\ch05_004.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 5,
+      "phrase": "Det forstår jeg ikke.",
+      "english_meaning": "",
+      "audio_file": "ch05_005.mp3",
+      "audio_path": "audio\\ch05_005.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 6,
+      "phrase": "”København”.",
+      "english_meaning": "",
+      "audio_file": "ch05_006.mp3",
+      "audio_path": "audio\\ch05_006.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 7,
+      "phrase": "Godt!",
+      "english_meaning": "",
+      "audio_file": "ch05_007.mp3",
+      "audio_path": "audio\\ch05_007.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 8,
+      "phrase": "Hvor står det henne? A: Har I nogen spørgsmål?",
+      "english_meaning": "",
+      "audio_file": "ch05_008.mp3",
+      "audio_path": "audio\\ch05_008.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 9,
+      "phrase": "Det står i linje to på side 117. B: Ja, jeg har et spørgsmål:",
+      "english_meaning": "",
+      "audio_file": "ch05_009.mp3",
+      "audio_path": "audio\\ch05_009.mp3"
+    },
+    {
+      "chapter": 5,
+      "index": 10,
+      "phrase": "Det betyder ”foreigner”.",
+      "english_meaning": "",
+      "audio_file": "ch05_010.mp3",
+      "audio_path": "audio\\ch05_010.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 0,
+      "phrase": "Hvad med klokken to?",
+      "english_meaning": "",
+      "audio_file": "ch06_000.mp3",
+      "audio_path": "audio\\ch06_000.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 1,
+      "phrase": "Hvor skal du hen? B: Det er fint. Men jeg skal være hjemme",
+      "english_meaning": "",
+      "audio_file": "ch06_001.mp3",
+      "audio_path": "audio\\ch06_001.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 2,
+      "phrase": "Jeg skal på arbejde. Hvad med dig? inden klokken syv.",
+      "english_meaning": "",
+      "audio_file": "ch06_002.mp3",
+      "audio_path": "audio\\ch06_002.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 3,
+      "phrase": "Jeg skal til dansk. A: Hvorfor det?",
+      "english_meaning": "",
+      "audio_file": "ch06_003.mp3",
+      "audio_path": "audio\\ch06_003.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 4,
+      "phrase": "Nå! Hvor går du til dansk henne? B: Jeg skal skype med min veninde i USA.",
+      "english_meaning": "",
+      "audio_file": "ch06_004.mp3",
+      "audio_path": "audio\\ch06_004.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 5,
+      "phrase": "Jeg går til dansk på en sprogskole i Skindergade.",
+      "english_meaning": "",
+      "audio_file": "ch06_005.mp3",
+      "audio_path": "audio\\ch06_005.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 6,
+      "phrase": "Må jeg spørge dig om noget?",
+      "english_meaning": "",
+      "audio_file": "ch06_006.mp3",
+      "audio_path": "audio\\ch06_006.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 7,
+      "phrase": "Vil du med i biografen i aften?",
+      "english_meaning": "",
+      "audio_file": "ch06_007.mp3",
+      "audio_path": "audio\\ch06_007.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 8,
+      "phrase": "Ja?",
+      "english_meaning": "",
+      "audio_file": "ch06_008.mp3",
+      "audio_path": "audio\\ch06_008.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 9,
+      "phrase": "Det kan jeg desværre ikke.",
+      "english_meaning": "",
+      "audio_file": "ch06_009.mp3",
+      "audio_path": "audio\\ch06_009.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 10,
+      "phrase": "Må jeg låne to hundrede kroner til i morgen?",
+      "english_meaning": "",
+      "audio_file": "ch06_010.mp3",
+      "audio_path": "audio\\ch06_010.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 11,
+      "phrase": "Selvfølgelig!",
+      "english_meaning": "",
+      "audio_file": "ch06_011.mp3",
+      "audio_path": "audio\\ch06_011.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 12,
+      "phrase": "Vil du med på stranden i eftermiddag? A: Værsgo.",
+      "english_meaning": "",
+      "audio_file": "ch06_012.mp3",
+      "audio_path": "audio\\ch06_012.mp3"
+    },
+    {
+      "chapter": 6,
+      "index": 13,
+      "phrase": "Ja, det vil jeg gerne. Hvornår skal vi mødes? B: Tak skal du have.",
+      "english_meaning": "",
+      "audio_file": "ch06_013.mp3",
+      "audio_path": "audio\\ch06_013.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 0,
+      "phrase": "Hvor bor du henne? A: Bor du i København?",
+      "english_meaning": "",
+      "audio_file": "ch07_000.mp3",
+      "audio_path": "audio\\ch07_000.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 1,
+      "phrase": "Jeg bor på Amager. B: Nej, jeg bor i Svendborg.",
+      "english_meaning": "",
+      "audio_file": "ch07_001.mp3",
+      "audio_path": "audio\\ch07_001.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 2,
+      "phrase": "Bor du i hus? A: Svendborg – hvor er det? Er det i Jylland?",
+      "english_meaning": "",
+      "audio_file": "ch07_002.mp3",
+      "audio_path": "audio\\ch07_002.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 3,
+      "phrase": "Ja, det gør jeg. B: Nej, Svendborg ligger på Fyn.",
+      "english_meaning": "",
+      "audio_file": "ch07_003.mp3",
+      "audio_path": "audio\\ch07_003.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 4,
+      "phrase": "Bor du alene?",
+      "english_meaning": "",
+      "audio_file": "ch07_004.mp3",
+      "audio_path": "audio\\ch07_004.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 5,
+      "phrase": "Nej. Jeg bor sammen med min kæreste.",
+      "english_meaning": "",
+      "audio_file": "ch07_005.mp3",
+      "audio_path": "audio\\ch07_005.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 6,
+      "phrase": "Jeg deler en lejlighed med en studiekammerat.",
+      "english_meaning": "",
+      "audio_file": "ch07_006.mp3",
+      "audio_path": "audio\\ch07_006.mp3"
+    },
+    {
+      "chapter": 7,
+      "index": 7,
+      "phrase": "Hvor stor er lejligheden?",
+      "english_meaning": "",
+      "audio_file": "ch07_007.mp3",
+      "audio_path": "audio\\ch07_007.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 0,
+      "phrase": "Hvad skal du have på til festen? A: Vil du med ud og shoppe på mandag?",
+      "english_meaning": "",
+      "audio_file": "ch08_000.mp3",
+      "audio_path": "audio\\ch08_000.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 1,
+      "phrase": "Jeg skal have min nye sommerkjole på. Der er udsalg!",
+      "english_meaning": "",
+      "audio_file": "ch08_001.mp3",
+      "audio_path": "audio\\ch08_001.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 2,
+      "phrase": "Jeg tager mit sorte jakkesæt og mine nye sko på. par nye bukser. Hvad med dig?",
+      "english_meaning": "",
+      "audio_file": "ch08_002.mp3",
+      "audio_path": "audio\\ch08_002.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 3,
+      "phrase": "Skal du have slips på? A: Jeg vil gerne have en varm frakke og et par",
+      "english_meaning": "",
+      "audio_file": "ch08_003.mp3",
+      "audio_path": "audio\\ch08_003.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 4,
+      "phrase": "Ja, selvfølgelig. Jeg tager et grønt eller højhælede sko.",
+      "english_meaning": "",
+      "audio_file": "ch08_004.mp3",
+      "audio_path": "audio\\ch08_004.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 5,
+      "phrase": "Er du glad for din nye cykel?",
+      "english_meaning": "",
+      "audio_file": "ch08_005.mp3",
+      "audio_path": "audio\\ch08_005.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 6,
+      "phrase": "Hvad har Emma på? B: Ja, jeg er virkelig glad for den.",
+      "english_meaning": "",
+      "audio_file": "ch08_006.mp3",
+      "audio_path": "audio\\ch08_006.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 7,
+      "phrase": "Hun har en flot, grøn kjole på. A: Hvad farve er den?",
+      "english_meaning": "",
+      "audio_file": "ch08_007.mp3",
+      "audio_path": "audio\\ch08_007.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 8,
+      "phrase": "Den er rød.",
+      "english_meaning": "",
+      "audio_file": "ch08_008.mp3",
+      "audio_path": "audio\\ch08_008.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 9,
+      "phrase": "Dine sko er virkelig flotte! Er de nye?",
+      "english_meaning": "",
+      "audio_file": "ch08_009.mp3",
+      "audio_path": "audio\\ch08_009.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 10,
+      "phrase": "Nej, de er fra sidste år.",
+      "english_meaning": "",
+      "audio_file": "ch08_010.mp3",
+      "audio_path": "audio\\ch08_010.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 11,
+      "phrase": "Er de italienske?",
+      "english_meaning": "",
+      "audio_file": "ch08_011.mp3",
+      "audio_path": "audio\\ch08_011.mp3"
+    },
+    {
+      "chapter": 8,
+      "index": 12,
+      "phrase": "Nej. De er spanske.",
+      "english_meaning": "",
+      "audio_file": "ch08_012.mp3",
+      "audio_path": "audio\\ch08_012.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 0,
+      "phrase": "Der ligger en bog på bordet. Er det din? A: Kan du danse salsa?",
+      "english_meaning": "",
+      "audio_file": "ch09_000.mp3",
+      "audio_path": "audio\\ch09_000.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 1,
+      "phrase": "Nej, det er det ikke. Det er Kristoffers. B: Nej, det kan jeg ikke.",
+      "english_meaning": "",
+      "audio_file": "ch09_001.mp3",
+      "audio_path": "audio\\ch09_001.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 2,
+      "phrase": "Der står en cykel dér. Er det din?",
+      "english_meaning": "",
+      "audio_file": "ch09_002.mp3",
+      "audio_path": "audio\\ch09_002.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 3,
+      "phrase": "Skal du på ferie til sommer?",
+      "english_meaning": "",
+      "audio_file": "ch09_003.mp3",
+      "audio_path": "audio\\ch09_003.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 4,
+      "phrase": "Ja, det er det. Det er min nye mountainbike.",
+      "english_meaning": "",
+      "audio_file": "ch09_004.mp3",
+      "audio_path": "audio\\ch09_004.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 5,
+      "phrase": "Ja, det skal jeg. Jeg skal til Mallorca i to uger.",
+      "english_meaning": "",
+      "audio_file": "ch09_005.mp3",
+      "audio_path": "audio\\ch09_005.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 6,
+      "phrase": "Der sidder en nøgle i døren. Er det din?",
+      "english_meaning": "",
+      "audio_file": "ch09_006.mp3",
+      "audio_path": "audio\\ch09_006.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 7,
+      "phrase": "Nej, det er det ikke. Jeg har min nøgle her. A: Vil du med i byen på lørdag?",
+      "english_meaning": "",
+      "audio_file": "ch09_007.mp3",
+      "audio_path": "audio\\ch09_007.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 8,
+      "phrase": "Ja, det vil jeg gerne.",
+      "english_meaning": "",
+      "audio_file": "ch09_008.mp3",
+      "audio_path": "audio\\ch09_008.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 9,
+      "phrase": "Har du en bil?",
+      "english_meaning": "",
+      "audio_file": "ch09_009.mp3",
+      "audio_path": "audio\\ch09_009.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 10,
+      "phrase": "Ja, det har jeg. Jeg har faktisk to – en Fiat",
+      "english_meaning": "",
+      "audio_file": "ch09_010.mp3",
+      "audio_path": "audio\\ch09_010.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 11,
+      "phrase": "Har du også en motorcykel? B: Ja, det gør jeg. Hvad med dig?",
+      "english_meaning": "",
+      "audio_file": "ch09_011.mp3",
+      "audio_path": "audio\\ch09_011.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 12,
+      "phrase": "Nej, det har jeg ikke. A: Selvfølgelig! Jeg cykler året rundt",
+      "english_meaning": "",
+      "audio_file": "ch09_012.mp3",
+      "audio_path": "audio\\ch09_012.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 13,
+      "phrase": "Er du god til at synge?",
+      "english_meaning": "",
+      "audio_file": "ch09_013.mp3",
+      "audio_path": "audio\\ch09_013.mp3"
+    },
+    {
+      "chapter": 9,
+      "index": 14,
+      "phrase": "Ja, det er jeg.",
+      "english_meaning": "",
+      "audio_file": "ch09_014.mp3",
+      "audio_path": "audio\\ch09_014.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 0,
+      "phrase": "Må jeg spørge dig om noget? A: Har du nogen søskende?",
+      "english_meaning": "",
+      "audio_file": "ch10_000.mp3",
+      "audio_path": "audio\\ch10_000.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 1,
+      "phrase": "Ja, selvfølgelig! B: Ja, jeg har to søskende: en søster og en halvbror.",
+      "english_meaning": "",
+      "audio_file": "ch10_001.mp3",
+      "audio_path": "audio\\ch10_001.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 2,
+      "phrase": "Hvor gammel er du? A: Er dine forældre skilt?",
+      "english_meaning": "",
+      "audio_file": "ch10_002.mp3",
+      "audio_path": "audio\\ch10_002.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 3,
+      "phrase": "Jeg er 29. B: Nej. Men min halvbror er fra min fars",
+      "english_meaning": "",
+      "audio_file": "ch10_003.mp3",
+      "audio_path": "audio\\ch10_003.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 4,
+      "phrase": "Hvornår bliver du så 30? første ægteskab.",
+      "english_meaning": "",
+      "audio_file": "ch10_004.mp3",
+      "audio_path": "audio\\ch10_004.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 5,
+      "phrase": "Det gør jeg den 13. januar.",
+      "english_meaning": "",
+      "audio_file": "ch10_005.mp3",
+      "audio_path": "audio\\ch10_005.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 6,
+      "phrase": "Har du nogen børn?",
+      "english_meaning": "",
+      "audio_file": "ch10_006.mp3",
+      "audio_path": "audio\\ch10_006.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 7,
+      "phrase": "Ja, min mand og jeg har to børn: en pige og",
+      "english_meaning": "",
+      "audio_file": "ch10_007.mp3",
+      "audio_path": "audio\\ch10_007.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 8,
+      "phrase": "Lever dine bedsteforældre endnu?",
+      "english_meaning": "",
+      "audio_file": "ch10_008.mp3",
+      "audio_path": "audio\\ch10_008.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 9,
+      "phrase": "Hvornår er du født? B: Ja, det gør de.",
+      "english_meaning": "",
+      "audio_file": "ch10_009.mp3",
+      "audio_path": "audio\\ch10_009.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 10,
+      "phrase": "Jeg er født den 18. april 1984. A: Hvor gamle er de?",
+      "english_meaning": "",
+      "audio_file": "ch10_010.mp3",
+      "audio_path": "audio\\ch10_010.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 11,
+      "phrase": "Min farmor er 81, min farfar er 86,",
+      "english_meaning": "",
+      "audio_file": "ch10_011.mp3",
+      "audio_path": "audio\\ch10_011.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 12,
+      "phrase": "Hvad dato er det i dag?",
+      "english_meaning": "",
+      "audio_file": "ch10_012.mp3",
+      "audio_path": "audio\\ch10_012.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 13,
+      "phrase": "Det er den 27. Hvorfor det?",
+      "english_meaning": "",
+      "audio_file": "ch10_013.mp3",
+      "audio_path": "audio\\ch10_013.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 14,
+      "phrase": "Min mor har fødselsdag den 29. Hun bliver 65.",
+      "english_meaning": "",
+      "audio_file": "ch10_014.mp3",
+      "audio_path": "audio\\ch10_014.mp3"
+    },
+    {
+      "chapter": 10,
+      "index": 15,
+      "phrase": "Så må du hilse hende og sige tillykke!",
+      "english_meaning": "",
+      "audio_file": "ch10_015.mp3",
+      "audio_path": "audio\\ch10_015.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 0,
+      "phrase": "Hvad laver du her i Danmark? A: Arbejder du stadig i en bank?",
+      "english_meaning": "",
+      "audio_file": "ch11_000.mp3",
+      "audio_path": "audio\\ch11_000.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 1,
+      "phrase": "Jeg er studerende. B: Ja, men jeg leder efter et nyt job.",
+      "english_meaning": "",
+      "audio_file": "ch11_001.mp3",
+      "audio_path": "audio\\ch11_001.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 2,
+      "phrase": "Hvad studerer du? A: Nå! Hvorfor det?",
+      "english_meaning": "",
+      "audio_file": "ch11_002.mp3",
+      "audio_path": "audio\\ch11_002.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 3,
+      "phrase": "Jeg studerer medicin. B: Jeg er træt af mit arbejde. Det er ret",
+      "english_meaning": "",
+      "audio_file": "ch11_003.mp3",
+      "audio_path": "audio\\ch11_003.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 4,
+      "phrase": "Her i Aarhus? stressende, og jeg skal tit arbejde over.",
+      "english_meaning": "",
+      "audio_file": "ch11_004.mp3",
+      "audio_path": "audio\\ch11_004.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 5,
+      "phrase": "Nej, i Odense.",
+      "english_meaning": "",
+      "audio_file": "ch11_005.mp3",
+      "audio_path": "audio\\ch11_005.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 6,
+      "phrase": "Er Morten stadig arbejdsløs?",
+      "english_meaning": "",
+      "audio_file": "ch11_006.mp3",
+      "audio_path": "audio\\ch11_006.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 7,
+      "phrase": "Hvor skal du hen? B: Nej. Han arbejder som bartender på en",
+      "english_meaning": "",
+      "audio_file": "ch11_007.mp3",
+      "audio_path": "audio\\ch11_007.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 8,
+      "phrase": "Jeg skal på arbejde. café inde i byen.",
+      "english_meaning": "",
+      "audio_file": "ch11_008.mp3",
+      "audio_path": "audio\\ch11_008.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 9,
+      "phrase": "Hvor arbejder du henne? A: Er han glad for det?",
+      "english_meaning": "",
+      "audio_file": "ch11_009.mp3",
+      "audio_path": "audio\\ch11_009.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 10,
+      "phrase": "Jeg arbejder på en spansk restaurant B: Ja, han er helt vild med det.",
+      "english_meaning": "",
+      "audio_file": "ch11_010.mp3",
+      "audio_path": "audio\\ch11_010.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 11,
+      "phrase": "Er du tjener?",
+      "english_meaning": "",
+      "audio_file": "ch11_011.mp3",
+      "audio_path": "audio\\ch11_011.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 12,
+      "phrase": "Nej, jeg er kok.",
+      "english_meaning": "",
+      "audio_file": "ch11_012.mp3",
+      "audio_path": "audio\\ch11_012.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 13,
+      "phrase": "Hvad laver Louise for tiden?",
+      "english_meaning": "",
+      "audio_file": "ch11_013.mp3",
+      "audio_path": "audio\\ch11_013.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 14,
+      "phrase": "Hun arbejder som lærer på en",
+      "english_meaning": "",
+      "audio_file": "ch11_014.mp3",
+      "audio_path": "audio\\ch11_014.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 15,
+      "phrase": "Er det et fuldtidsjob?",
+      "english_meaning": "",
+      "audio_file": "ch11_015.mp3",
+      "audio_path": "audio\\ch11_015.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 16,
+      "phrase": "Nej. Hun arbejder kun 15 timer om ugen.",
+      "english_meaning": "",
+      "audio_file": "ch11_016.mp3",
+      "audio_path": "audio\\ch11_016.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 17,
+      "phrase": "Hvad underviser hun i?",
+      "english_meaning": "",
+      "audio_file": "ch11_017.mp3",
+      "audio_path": "audio\\ch11_017.mp3"
+    },
+    {
+      "chapter": 11,
+      "index": 18,
+      "phrase": "I engelsk, matematik og musik.",
+      "english_meaning": "",
+      "audio_file": "ch11_018.mp3",
+      "audio_path": "audio\\ch11_018.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 0,
+      "phrase": "Hvad laver du i fritiden? A: Hvad laver du for tiden?",
+      "english_meaning": "",
+      "audio_file": "ch12_000.mp3",
+      "audio_path": "audio\\ch12_000.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 1,
+      "phrase": "Jeg laver mange forskellige ting. B: Jeg arbejder stadig som musiker. Og jeg",
+      "english_meaning": "",
+      "audio_file": "ch12_001.mp3",
+      "audio_path": "audio\\ch12_001.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 2,
+      "phrase": "Jeg går tit i biografen og til koncert.",
+      "english_meaning": "",
+      "audio_file": "ch12_002.mp3",
+      "audio_path": "audio\\ch12_002.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 3,
+      "phrase": "Hvor tit går du til italiensk?",
+      "english_meaning": "",
+      "audio_file": "ch12_003.mp3",
+      "audio_path": "audio\\ch12_003.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 4,
+      "phrase": "Jeg går til italiensk to gange om ugen.",
+      "english_meaning": "",
+      "audio_file": "ch12_004.mp3",
+      "audio_path": "audio\\ch12_004.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 5,
+      "phrase": "Hvor tit går du på museum?",
+      "english_meaning": "",
+      "audio_file": "ch12_005.mp3",
+      "audio_path": "audio\\ch12_005.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 6,
+      "phrase": "Om morgenen?",
+      "english_meaning": "",
+      "audio_file": "ch12_006.mp3",
+      "audio_path": "audio\\ch12_006.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 7,
+      "phrase": "Årh, et par gange om måneden.",
+      "english_meaning": "",
+      "audio_file": "ch12_007.mp3",
+      "audio_path": "audio\\ch12_007.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 8,
+      "phrase": "Nej, jeg går om aftenen, for jeg arbejder",
+      "english_meaning": "",
+      "audio_file": "ch12_008.mp3",
+      "audio_path": "audio\\ch12_008.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 9,
+      "phrase": "Går du tit i biografen?",
+      "english_meaning": "",
+      "audio_file": "ch12_009.mp3",
+      "audio_path": "audio\\ch12_009.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 10,
+      "phrase": "Har du nogen fritidsinteresser?",
+      "english_meaning": "",
+      "audio_file": "ch12_010.mp3",
+      "audio_path": "audio\\ch12_010.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 11,
+      "phrase": "Nej, det gør jeg aldrig.",
+      "english_meaning": "",
+      "audio_file": "ch12_011.mp3",
+      "audio_path": "audio\\ch12_011.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 12,
+      "phrase": "Jeg svømmer næsten hver dag. Og jeg kan",
+      "english_meaning": "",
+      "audio_file": "ch12_012.mp3",
+      "audio_path": "audio\\ch12_012.mp3"
+    },
+    {
+      "chapter": 12,
+      "index": 13,
+      "phrase": "Jeg bruger meget tid på at fotografere.",
+      "english_meaning": "",
+      "audio_file": "ch12_013.mp3",
+      "audio_path": "audio\\ch12_013.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 0,
+      "phrase": "Hvornår begynder undervisningen?",
+      "english_meaning": "",
+      "audio_file": "ch13_000.mp3",
+      "audio_path": "audio\\ch13_000.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 1,
+      "phrase": "Den begynder klokken syv. [19]",
+      "english_meaning": "",
+      "audio_file": "ch13_001.mp3",
+      "audio_path": "audio\\ch13_001.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 2,
+      "phrase": "Hvad er klokken? A: Hvornår er I færdige?",
+      "english_meaning": "",
+      "audio_file": "ch13_002.mp3",
+      "audio_path": "audio\\ch13_002.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 3,
+      "phrase": "Den er halv to. [13.30] B: Vi er færdige fem minutter over halv ti. [21.35]",
+      "english_meaning": "",
+      "audio_file": "ch13_003.mp3",
+      "audio_path": "audio\\ch13_003.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 4,
+      "phrase": "Nå, for søren! Så skal jeg skynde mig!",
+      "english_meaning": "",
+      "audio_file": "ch13_004.mp3",
+      "audio_path": "audio\\ch13_004.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 5,
+      "phrase": "Har du travlt? 13.5",
+      "english_meaning": "",
+      "audio_file": "ch13_005.mp3",
+      "audio_path": "audio\\ch13_005.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 6,
+      "phrase": "Ja, jeg skal nå toget kvart i to. [13.45]",
+      "english_meaning": "",
+      "audio_file": "ch13_006.mp3",
+      "audio_path": "audio\\ch13_006.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 7,
+      "phrase": "Det har vi om en halv time.",
+      "english_meaning": "",
+      "audio_file": "ch13_007.mp3",
+      "audio_path": "audio\\ch13_007.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 8,
+      "phrase": "Hvor længe har vi pause?",
+      "english_meaning": "",
+      "audio_file": "ch13_008.mp3",
+      "audio_path": "audio\\ch13_008.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 9,
+      "phrase": "Hvornår står du op om morgenen? B: I et kvarter.",
+      "english_meaning": "",
+      "audio_file": "ch13_009.mp3",
+      "audio_path": "audio\\ch13_009.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 10,
+      "phrase": "Jeg plejer at stå op tyve minutter i syv. [6.40]",
+      "english_meaning": "",
+      "audio_file": "ch13_010.mp3",
+      "audio_path": "audio\\ch13_010.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 11,
+      "phrase": "Så tidligt?!",
+      "english_meaning": "",
+      "audio_file": "ch13_011.mp3",
+      "audio_path": "audio\\ch13_011.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 12,
+      "phrase": "Ja. For jeg møder på arbejde halv otte. [7.30]",
+      "english_meaning": "",
+      "audio_file": "ch13_012.mp3",
+      "audio_path": "audio\\ch13_012.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 13,
+      "phrase": "Hvornår går du i seng om aftenen?",
+      "english_meaning": "",
+      "audio_file": "ch13_013.mp3",
+      "audio_path": "audio\\ch13_013.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 14,
+      "phrase": "Hvornår har du fri fra arbejde?",
+      "english_meaning": "",
+      "audio_file": "ch13_014.mp3",
+      "audio_path": "audio\\ch13_014.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 15,
+      "phrase": "Også i weekenden?!",
+      "english_meaning": "",
+      "audio_file": "ch13_015.mp3",
+      "audio_path": "audio\\ch13_015.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 16,
+      "phrase": "Jeg har normalt fri klokken fire [16],",
+      "english_meaning": "",
+      "audio_file": "ch13_016.mp3",
+      "audio_path": "audio\\ch13_016.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 17,
+      "phrase": "Nej, i weekenden går jeg altid i seng",
+      "english_meaning": "",
+      "audio_file": "ch13_017.mp3",
+      "audio_path": "audio\\ch13_017.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 18,
+      "phrase": "Nå! Hvorfor det?",
+      "english_meaning": "",
+      "audio_file": "ch13_018.mp3",
+      "audio_path": "audio\\ch13_018.mp3"
+    },
+    {
+      "chapter": 13,
+      "index": 19,
+      "phrase": "Jeg skal til tandlægen kvart i tre. [14.45]",
+      "english_meaning": "",
+      "audio_file": "ch13_019.mp3",
+      "audio_path": "audio\\ch13_019.mp3"
+    }
+  ]
+}
