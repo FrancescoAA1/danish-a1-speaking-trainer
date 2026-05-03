@@ -1,3 +1,7 @@
 pdfplumber==0.10.4
 openai==1.52.0
 edge-tts>=6.1.16
+openai-whisper>=20240930
+sounddevice>=0.4.6
+numpy>=1.24.0
+scipy>=1.10.0
