@@ -10,6 +10,10 @@ Two modes:
 import os
 import sys
 
+# Load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 # Must be set BEFORE importing packages that depend on Numba
 # (Windows workaround for security policies blocking DLLs)
 os.environ['NUMBA_DISABLE_JIT'] = '1'

@@ -43,3 +43,7 @@ Thumbs.db
 check_voices.py
 generate_all_audio.py
 test_audio.mp3
+
+# Environment variables (API keys)
+.env
+.env.local
