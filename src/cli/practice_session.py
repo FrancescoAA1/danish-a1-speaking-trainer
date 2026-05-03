@@ -94,6 +94,8 @@ class PracticeSession:
         print("-" * 70)
         print(f"Listen to {num_phrases} Danish phrases and repeat them.\n")
         
+        selected = random.sample(phrases_pool, min(num_phrases, len(phrases_pool)))
+        
         for i, phrase_data in enumerate(selected, 1):
             phrase = phrase_data.get('phrase', '')
             audio_file = phrase_data.get('audio_file', '')
