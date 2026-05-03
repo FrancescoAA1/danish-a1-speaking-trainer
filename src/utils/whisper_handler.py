@@ -1,11 +1,25 @@
 """Whisper integration for speech transcription."""
 
+import os
+import sys
 import io
 import wave
-import whisper
 import sounddevice as sd
 import numpy as np
 from pathlib import Path
+
+# Windows security workaround: Mock numba before whisper imports it
+# This prevents the DLL load error from Application Control policies
+if sys.platform == 'win32':
+    import sys
+    from unittest.mock import MagicMock
+    
+    # Create a mock numba module
+    sys.modules['numba'] = MagicMock()
+    sys.modules['numba.core'] = MagicMock()
+    sys.modules['numba.core.types'] = MagicMock()
+
+import whisper
 
 
 class WhisperTranscriber:

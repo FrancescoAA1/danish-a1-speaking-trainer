@@ -7,7 +7,13 @@ Two modes:
 2. Daily Practice: Mixed chapters for comprehensive review (breadth-first)
 """
 
+import os
 import sys
+
+# Must be set BEFORE importing packages that depend on Numba
+# (Windows workaround for security policies blocking DLLs)
+os.environ['NUMBA_DISABLE_JIT'] = '1'
+
 import argparse
 from src.cli.practice_session import PracticeSession
 from src.cli.daily_practice import run_daily_practice
